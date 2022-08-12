@@ -1,0 +1,13 @@
+body {
+    color: black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.login-con {
+    margin-top: 50px;
+}
+
+.voting-con {
+    margin-bottom: 60px
+}

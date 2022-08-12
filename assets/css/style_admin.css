@@ -1,0 +1,15 @@
+body {
+    color: black;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-color: lightyellow;
+}
+
+.login-con {
+    margin-top: 50px;
+}
+
+.logo-title {
+    width: 30%;
+    margin: 0 auto;
+}

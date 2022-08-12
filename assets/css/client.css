@@ -1,0 +1,13 @@
+body {
+    margin-top: 70px;
+}
+
+.logs-con {
+    height: 480px;
+    overflow-y: scroll;
+}
+
+.barcode-pic-con img {
+    width: 100%;
+    height: 100px;
+}
